@@ -46,6 +46,9 @@ Python, TensorFlow, Librosa, Streamlit
 
 ---
 
-Harish Gudi
-MSc Computer Science
-Teesside University 2026
+---
+
+**Developed by**
+
+**Harish Gudi**
+MSc Computer Science | Teesside University | 2026
