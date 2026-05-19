@@ -7,6 +7,10 @@ using deep learning.
 
 ---
 
+Harish Gudi
+MSc Computer Science
+Teesside University 2026
+
 ## What it does
 
 Upload a WAV audio file and the app instantly 
