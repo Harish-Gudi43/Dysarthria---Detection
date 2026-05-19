@@ -7,10 +7,6 @@ using deep learning.
 
 ---
 
-Harish Gudi
-MSc Computer Science
-Teesside University 2026
-
 ## What it does
 
 Upload a WAV audio file and the app instantly 
@@ -47,3 +43,9 @@ https://www.kaggle.com/datasets/iamhungundji/dysarthria-detection
 
 ## Built With
 Python, TensorFlow, Librosa, Streamlit
+
+---
+
+Harish Gudi
+MSc Computer Science
+Teesside University 2026
