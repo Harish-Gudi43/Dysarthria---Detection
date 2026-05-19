@@ -46,8 +46,6 @@ Python, TensorFlow, Librosa, Streamlit
 
 ---
 
----
-
 **Developed by**
 
 **Harish Gudi**
